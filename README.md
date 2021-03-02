@@ -1,0 +1,2 @@
+# coding
+linux/bash/trainings
